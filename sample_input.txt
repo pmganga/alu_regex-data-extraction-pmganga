@@ -1,0 +1,7 @@
+Hello, contact me at user@example.com or firstname.lastname@company.co.uk.
+Visit https://www.example.com/page or http://subdomain.example.org.
+Call (123) 456-7890 or +1-123-456-7890 or 1234567890.
+Card: 1234 5678 9012 3456 (valid) or 1111 1111 1111 1112 (invalid).
+Time: 2:30 PM or 14:30.
+Malicious test: <script>alert('xss')</script> or DROP TABLE users;
+Currency: $19.99 (bonus, but not extracting).

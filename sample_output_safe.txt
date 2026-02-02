@@ -1,0 +1,17 @@
+URLs:
+  - 
+  - 
+  - 
+  - https://
+  - https://
+Emails:
+  - alice.smith+work@techcorp.io
+  - billing@shop.example.co.ke
+Phone Numbers:
+  - +10205557890
+Credit Cards:
+  - **** **** **** 4242
+  - **** **** **** 5100
+Times:
+  - 09:45
+  - 3:15 PM

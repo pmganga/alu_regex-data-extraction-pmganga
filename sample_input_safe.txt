@@ -1,0 +1,9 @@
+Customer inquiry #73921
+Email: alice.smith+work@techcorp.io and billing@shop.example.co.ke
+Visit our site: https://www.shoprite.co.ke/products or https://dev.api.local/v2/orders
+Call center: +254 722 123 456   or (020) 555-7890   or 0711-222-333
+Payment example:
+  Card ending in 4242 (Visa 4242 4242 4242 4242)
+  Another: 5105-1051-0510-5100
+Schedule call for 09:45 or 3:15 PM
+Total due: KES 12,450.75
